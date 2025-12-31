@@ -203,7 +203,7 @@ ctx.fillStyle = "#f00";
 ctx.textAlign = "center";
 ctx.textBaseline = "middle";
 ctx.font = "bold 56px Arial";
-ctx.fillText("2026", cnvs.width * 0.5, cnvs.height * 0.5);
+ctx.fillText("Happy 2026 TATA ZOE", cnvs.width * 0.5, cnvs.height * 0.5);
 var tex2020 = new THREE.CanvasTexture(cnvs);
 /////////////////////////////////////////////////////////////////
 
